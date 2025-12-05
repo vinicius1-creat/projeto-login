@@ -1,0 +1,11 @@
+@charset "UTF-8" ;
+
+button {
+    width: fit-content;
+    display: flex;
+    padding: 1.2em 1rem;
+    cursor: pointer;
+    gap: 0.4rm;
+    font-weight: bold;
+    text-shadow: ;
+}
