@@ -16,7 +16,7 @@ Lilás: #5f2c82
 body, html {
     background-color: #5f2c82;
     height: 100vh;
-    height: 100vw;
+    height: 100vh;
 }
 
 main {
@@ -59,8 +59,8 @@ div#formulario > h1 {
     margin-bottom: 10px;
 }
 
-div#formrulario > p {
-    font-size: 0.8em;
+div#formulario > p {
+    font-size: 0.8rem;
 }
 
 form > div.campo {
@@ -79,7 +79,7 @@ div.campo > label {
 
 div.campo > i {
     color: white;
-    /*background-color: black;*/
+    background-color: black;
     font-size: 2em;
     width: 40px;
     padding: 5px;
