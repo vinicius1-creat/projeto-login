@@ -79,7 +79,7 @@ div.campo > label {
 
 div.campo > i {
     color: white;
-    background-color: black;
+    /* background-color: black; */
     font-size: 2em;
     width: 40px;
     padding: 5px;
