@@ -5,7 +5,6 @@ button {
     display: flex;
     padding: 1.2em 1rem;
     cursor: pointer;
-    gap: 0.4rm;
+    gap: 0.4rem;
     font-weight: bold;
-    text-shadow: ;
 }
